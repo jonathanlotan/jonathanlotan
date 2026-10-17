@@ -1,4 +1,5 @@
 ## Hi there 👋
+CVE-2026-105747
 
 <!--
 **jonathanlotan/jonathanlotan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
